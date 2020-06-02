@@ -1,0 +1,11 @@
+{
+    "name": "devcompost-hello-world",
+    "description": "Hello world application by devcompost",
+    "version": "1.0.0",
+    "private": true,
+    "license": "MIT",
+    "author": "DevCompost",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
